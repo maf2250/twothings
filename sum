@@ -1,4 +1,5 @@
 #!/bin/bash
+# Author: Marty Feuerstein-Mendik
 sum=0
 # this is my comment
 for arg in $@
